@@ -1,1 +1,1 @@
-edit on mac
+edit on macos
